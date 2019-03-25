@@ -1,7 +1,4 @@
 # Telegram contest
-Web Page
-
-# Animating Chart Example
 
 ### Results
 
