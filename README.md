@@ -1,6 +1,6 @@
 # Telegram contest
 
-### Results
+### Result
 
 https://kuznetsovnikita.github.io/
 
@@ -15,8 +15,6 @@ Note: you may not use specialized charting libraries. All the code you submit mu
 The criteria we’ll be using to define the winner are speed, efficiency and the size of the app.
 
 The app should show 5 charts on one screen, based on the input data we will provide within the next 24 hours.
-
-Designs for the contest charts are attached below.
 
 Stay tuned for contest-related announcements in this channel.
 
