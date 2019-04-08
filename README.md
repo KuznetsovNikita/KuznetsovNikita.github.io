@@ -3,6 +3,7 @@
 ### Result
 
 https://kuznetsovnikita.github.io/stage-1/
+
 https://kuznetsovnikita.github.io/stage-2/
 
 ### Requirements
